@@ -8,10 +8,10 @@
   <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://i.ibb.co/fQQ4yw2/download20200500143733.png" alt="download20200500143733" border="0"></a>
- 
-</div>
+  src="https://i.ibb.co/fQQ4yw2/download20200500143733.png" alt="download20200500143733" border="0"></a> 
+
   
   ##
  
